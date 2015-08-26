@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello OpenShift";
+echo "Hello OpenShift 3 running on AWS.";
 ?>
