@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello V3";
+echo "Hello OpenShift";
 ?>
