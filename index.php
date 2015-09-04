@@ -1,4 +1,3 @@
 <?php
 
-echo "Hello OpenShift 3 running on AWS.";
-?>
+echo "Have a great weekend";
