@@ -1,3 +1,3 @@
 <?php
 
-echo "Have a great weekend";
+echo "My awesome PHP application because I'm cool";
