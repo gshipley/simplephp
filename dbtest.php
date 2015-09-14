@@ -12,7 +12,7 @@ if ($connection->connect_errno) {
 }
 echo "<br><br><br><br><h1>My awesome PHP test</h1>";
 $query = "SELECT * from users";
-$rs = connection->query($query);
+$rs = $connection->query($query);
 while ($row = $rs->fetch_array(MYSQLI_ASSOC)) {
     echo $row['user_id'] . " " . $row['username'] . "\n";
 }
