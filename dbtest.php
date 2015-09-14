@@ -10,6 +10,8 @@ if (!$connection) {
 } else {
         echo "Connected to database.<br>";
 }
+
+echo "<br><br><br><br><h1>My awesome PHP test</h1>";
 $dbconnection = mysql_select_db($dbname);
 $query = "SELECT * from users";
 $rs = mysql_query($query);
