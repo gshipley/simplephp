@@ -1,4 +1,4 @@
 <?php
 
-echo "Tonga is going to get killed in the Rugby World Cup by the AllBlacks";
+echo "This is the worst PHP webapp in the universe.";
 
