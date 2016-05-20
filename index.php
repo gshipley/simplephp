@@ -1,4 +1,4 @@
 <?php
 
-echo "This is the worst PHP webapp in the universe on OpenShift 3";
+echo "This is a change from Orion";
 
