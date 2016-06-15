@@ -1,4 +1,3 @@
 <?php
 
-echo "This is a change from Orion";
-
+echo "Welcome to OpenShift Online Developer Preview";
