@@ -1,4 +1,4 @@
 <?php
 
-echo "Welcome to OpenShift Online Developer Preview";
-echo "<br><b>automated builds";
+echo "Welcome to the best application in the world.";
+
