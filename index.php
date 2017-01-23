@@ -1,3 +1,3 @@
 <?php
 
-echo "<h1>Grant is pretty lame";
+echo "<h1>Best app ever";
