@@ -2,4 +2,4 @@
 
 echo "<h1>Best app ever!!";
 
-echo "<br><br>Grumpy's is awesome";
+echo "<br><br>Day Block is awesome";
