@@ -1,5 +1,3 @@
 <?php
 
-echo "<h1>Best app ever!!";
-echo "<br><br>awesome";
-echo "<br>but not as cool as this";
+echo "<h1>thanks for all the work you do on Fedora and for RedHat!";
