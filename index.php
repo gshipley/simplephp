@@ -1,4 +1,4 @@
 <?php
 
 echo "<br>Welcome to OpenShift";
-echo "<br>The Codie Awards";
+echo "<br>The Codie Awards with automated builds!";
