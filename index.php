@@ -1,4 +1,3 @@
 <?php
 
-echo "RDU is awesome";
-echo "<br><H1>Boom";
+echo "This is a simple php application";
